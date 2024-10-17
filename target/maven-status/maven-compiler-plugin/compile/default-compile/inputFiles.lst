@@ -1,9 +1,9 @@
-D:\Spring Boot\TodoApp_MySQL\src\main\java\com\company\todoapp\exceptions\TodoNotFoundException.java
-D:\Spring Boot\TodoApp_MySQL\src\main\java\com\company\todoapp\services\repository\TodoStaticService.java
-D:\Spring Boot\TodoApp_MySQL\src\main\java\com\company\todoapp\services\ITodoService.java
-D:\Spring Boot\TodoApp_MySQL\src\main\java\com\company\todoapp\configurations\SecurityConfigurations.java
-D:\Spring Boot\TodoApp_MySQL\src\main\java\com\company\todoapp\models\Todo.java
-D:\Spring Boot\TodoApp_MySQL\src\main\java\com\company\todoapp\repository\TodoJPARepository.java
-D:\Spring Boot\TodoApp_MySQL\src\main\java\com\company\todoapp\TodoappApplication.java
-D:\Spring Boot\TodoApp_MySQL\src\main\java\com\company\todoapp\controllers\TodoController.java
-D:\Spring Boot\TodoApp_MySQL\src\main\java\com\company\todoapp\services\repository\TodoDBService.java
+D:\todoapp\src\main\java\com\company\todoapp\models\Todo.java
+D:\todoapp\src\main\java\com\company\todoapp\configurations\SecurityConfigurations.java
+D:\todoapp\src\main\java\com\company\todoapp\services\repository\TodoDBService.java
+D:\todoapp\src\main\java\com\company\todoapp\TodoappApplication.java
+D:\todoapp\src\main\java\com\company\todoapp\services\ITodoService.java
+D:\todoapp\src\main\java\com\company\todoapp\services\repository\TodoStaticService.java
+D:\todoapp\src\main\java\com\company\todoapp\controllers\TodoController.java
+D:\todoapp\src\main\java\com\company\todoapp\exceptions\TodoNotFoundException.java
+D:\todoapp\src\main\java\com\company\todoapp\repository\TodoJPARepository.java
